@@ -5,23 +5,23 @@ This project explores the famous Titanic dataset to uncover survival patterns an
 The goal of this analysis was to perform a structured EDA (Exploratory Data Analysis) on the Titanic dataset to understand relationships between passenger attributes and survival rates.
 
 # Steps Followed
-Data Loading & Inspection
+# 1.Data Loading & Inspection
 
 Imported dataset and performed initial review of shape, columns, and datatypes.
 
-Data Cleaning & Feature Engineering
+# 2.Data Cleaning & Feature Engineering
 
 Handled missing values.
 
 Created new features (e.g., Title extraction, Family size).
 
-Descriptive Statistics & Exploration
+# 3.Descriptive Statistics & Exploration
 
 Summary statistics for numeric and categorical features.
 
 Count plots for passenger distribution.
 
-Visualization & Analysis
+# 4.Visualization & Analysis
 
 Univariate Analysis: Histograms, boxplots, countplots.
 
@@ -31,7 +31,7 @@ Correlation Analysis: Heatmaps before and after encoding categorical features.
 
 Pairplots: Exploring relationships between multiple features.
 
-Insight Documentation
+# 5.Insight Documentation
 
 Observations recorded for each visual.
 
